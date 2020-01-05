@@ -65,6 +65,7 @@ class ViewController: UIViewController,UIPickerViewDataSource,UIPickerViewDelega
         }else{
             StartButton.isEnabled = true
             alarmLabel.isHidden = true
+            
         }
         
         
