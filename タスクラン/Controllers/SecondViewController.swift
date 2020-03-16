@@ -95,12 +95,7 @@ class SecondViewController: UIViewController {
                            print("Done!!!!")
                          
                        }
-                   }else{
-                 
-                       timer.invalidate()
-                       print("Done!!!!")
-                 
-                   }
+        }
       }
 
       func  countdownTimer(){
